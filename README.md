@@ -196,9 +196,9 @@ $conn->close();
 ?>
 ```
 ## audio to text interface:
-<img src="https://github.com/user-attachments/assets/57961dbc-e7c3-45c3-beee-21d30672661f" width="600" height="300" alt="My Image">
+<img src="https://github.com/user-attachments/assets/57961dbc-e7c3-45c3-beee-21d30672661f" width="700" height="300'" alt="My Image">
 
-<img src="https://github.com/user-attachments/assets/8c67dd35-22ec-444d-b83d-562b663aaff1" width="600" height="300" alt="My Image">
+<img src="https://github.com/user-attachments/assets/8c67dd35-22ec-444d-b83d-562b663aaff1" width="700" height="300" alt="My Image">
 
 ## database:
 ![Screenshot 2024-07-13 085402](https://github.com/user-attachments/assets/f99f5ff0-a59e-488f-a3d3-1557ac28495b)
